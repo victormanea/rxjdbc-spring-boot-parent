@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.vma.rxjdbc.autoconfigure.RxJdbcAutoConfiguration
